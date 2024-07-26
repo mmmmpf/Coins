@@ -1,0 +1,252 @@
+[
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images1207e466-ido_6.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 11.246994492647772,
+                            "y": 224.54285714285714,
+                            "width": 128.0657820983867,
+                            "height": 124.64361170448272,
+                            "rectanglelabels": [
+                                1
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images1207e466-ido_6.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 219.5714285714284,
+                            "y": 230.34285714285718,
+                            "width": 135.9657905911537,
+                            "height": 133.20225519211004,
+                            "rectanglelabels": [
+                                3
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:/projects/AI/deep-learning-class//project2/label-studio/backup/COINS-1/coco/project-SHKALIM-6-2/images/1207e466-ido_6.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 92.80489191141628,
+                            "y": 356.7187960985056,
+                            "width": 100.84548536939637,
+                            "height": 98.04924968475767,
+                            "rectanglelabels": [
+                                0
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 243.4173280813336,
+                            "y": 181.73789532877868,
+                            "width": 108.71321607170296,
+                            "height": 105.99230776708765,
+                            "rectanglelabels": [
+                                1
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:/projects/AI/deep-learning-class/project2/label-studio/backup/COINS-1/coco/project-SHKALIM-6-2/images/7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 160.0966061207571,
+                            "y": 211.7596475101245,
+                            "width": 115.98509705354509,
+                            "height": 110.58348100285046,
+                            "rectanglelabels": [
+                                3
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 493.5532162762922,
+                            "y": 201.53092787747534,
+                            "width": 114.45368781504477,
+                            "height": 109.44275848619054,
+                            "rectanglelabels": [
+                                3
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 282.5532162762922,
+                            "y": 494.53092787747516,
+                            "width": 114.45368781504477,
+                            "height": 109.44275848619061,
+                            "rectanglelabels": [
+                                3
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 354.00000000000006,
+                            "y": 256.50000000000006,
+                            "width": 67.00000000000006,
+                            "height": 67.99999999999999,
+                            "rectanglelabels": [
+                                0
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 469.00000000000017,
+                            "y": 350.50000000000006,
+                            "width": 67.00000000000006,
+                            "height": 67.99999999999999,
+                            "rectanglelabels": [
+                                0
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "data": {
+            "image": "D:projectsAIdeep-learning-classproject2label-studiobackupCOINS-1cocoproject-SHKALIM-6-2images7dbf2711-ido_19.jpg"
+        },
+        "annotations": [
+            {
+                "result": [
+                    {
+                        "from_name": "label",
+                        "to_name": "image",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 88.68301345536511,
+                            "y": 580.2320538214608,
+                            "width": 78.80383853561922,
+                            "height": 82.4868519909838,
+                            "rectanglelabels": [
+                                2
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
