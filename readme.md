@@ -79,13 +79,11 @@ While YOLOv5 has proven to be effective in this project, it's valuable to consid
 
 Model            | VGG16 | ResNet50 | YOLOv5
  ----------------|-------|----------|-------
- Advantages |Well-established architecture,  | Strong performance on image classification tasks | Real-time inference capability
- |widely used for transfer learning||
- Disadvantages |May not be as efficient as YOLOv5 for object detection,  | Can be computationally expensive for real-time object |May require more training data for
- |especially with smaller datasets|| complex object detection tasks
+ Advantages |Well-established architecture, widely used for transfer learning | Strong performance on image classification tasks | Real-time inference capability
+ Disadvantages |May not be as efficient as YOLOv5 for object detection, especially with smaller datasets | Can be computationally expensive for real-time object |May require more training data for complex object detection tasks
  Time [Sec] |622 |646 |1206  
  Accuracy |Low | Low | 0.81
- No. #Parameters |27e6|74e6 | 7e6
+ No. #Parameters |27e+6|74e+6 | 7e+6
  Epochs |44|50|100
 
 
